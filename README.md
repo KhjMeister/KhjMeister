@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 -  I’m @KhjMeister
-- 
 - 📫 How to reach me :
 
 -      my Email  : khaledjamal5946@gmail.com
