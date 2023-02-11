@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Steach its on Debuging state
 - 🤔 I’m looking for help with getting new role in php laravel or nextjs or reactjs
-- ⚡ Fun fact: I an not able to play dota 2 for 5 month
+- ⚡ Fun fact: I am not able to play dota 2 for 5 month
 
 
 
