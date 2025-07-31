@@ -6,9 +6,9 @@
 -      my Email  : khaledjamal5946@gmail.com
 - 
 
-- 🔭 I’m currently working on Steach its on Debuging state
+- 🔭 I’m currently working on a part time 
 - 🤔 I’m looking for help with getting new role in Software Engineer role
-- ⚡ Fun fact: I am not able to play dota 2 for 5 month
+- ⚡ Fun fact: I love playing dota 2 
 
 
 
